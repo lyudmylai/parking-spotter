@@ -1,1 +1,3 @@
 # parking-spotter
+
+This small iOS project has been started during Camp Polyhacks hackathon in San Luis Obispo, CA on January 12-13, 2017. It uses Map Kit and Core Location to show user location on a map, and was written to try out the idea of a client iOS app for the service, which would show user on a map the parking lots and garages available in San Luis Obispo downtown, with the information about number of sport available at each location.
